@@ -1,27 +1,24 @@
-🛒 Customer Shopping Data Analysis
-📌 Problem Statement
+Problem Statement- Analyze customer purchasing behavior to identify high-value customers, category performance, and sales trends.
 
-Analyze customer purchasing behavior to identify high-value customers, category performance, and sales trends.
+Tools Used- Excel, SQL Server
 
-📊 Tools Used
-
-Excel, SQL Server
-
-🔍 Steps Performed
+Steps Performed-
 Cleaned and structured dataset in Excel
 Created new metrics like total spend, frequency, and segmentation
 Built pivot tables and charts for analysis
 Performed SQL queries for aggregation and insights
-📈 Key Insights
+
+Key Insights-
 Certain categories contribute majority of revenue
 High-value customers generate significant revenue
-Sales vary across locations and time
-💡 Business Recommendations
+Sales vary across locations and 
+
+Business Recommendations-
 Focus on high-value customers for retention
 Promote high-performing categories
 Optimize low-performing locations
+
 📊 Dashboard Preview
-## 📊 Dashboard Preview  
 ![Dashboard1](1.PNG)
 ![Dashboard2](2.PNG)
 ![Dashboard3](3.PNG)
